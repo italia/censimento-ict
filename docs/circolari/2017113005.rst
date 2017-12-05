@@ -326,20 +326,13 @@ Agenzia per l\'Italia Digitale - CIRCOLARE N. 05 del 30 novembre 2017
     La procedura di qualificazione dei Poli Strategici Nazionali è
     articolata in cinque fasi:
 
-A. *Identificazione dei soggetti candidabili e presentazione della
-   domanda di qualificazione*
+    A. *Identificazione dei soggetti candidabili e presentazione della domanda di qualificazione*
+    B. *Attività istruttoria*
+    C. *Approvazione dei PSN da parte della Presidenza del Consiglio dei Ministri e iscrizione nell’Elenco Nazionale dei PSN.*
+    D. *Sottoscrizione del Protocollo d’intesa con AgID.*
+    E. *Monitoraggio dell’Elenco Nazionale dei PSN.*
 
-B. *Attività istruttoria*
-
-C. *Approvazione dei PSN da parte della Presidenza del Consiglio dei
-   Ministri e iscrizione nell’Elenco Nazionale dei PSN.*
-
-D. *Sottoscrizione del Protocollo d’intesa con AgID.*
-
-E. *Monitoraggio dell’Elenco Nazionale dei PSN.*
-
-A. *Identificazione dei soggetti candidabili e presentazione della
-   domanda di qualificazione*
+A. *Identificazione dei soggetti candidabili e presentazione della domanda di qualificazione*
 
     L’identificazione dei soggetti candidabili a PSN avviene nei casi in
     cui le risultanze del Censimento del Patrimonio ICT della PA
@@ -371,7 +364,7 @@ A. *Identificazione dei soggetti candidabili e presentazione della
     candidano ad erogare, nonché comprovare l’applicazione di procedure
     e metodologie conformi a tecniche consolidate.
 
-A. *Attività istruttoria*
+B. *Attività istruttoria*
 
     L’istruttoria relativa alle candidature e la valutazione della
     documentazione prodotta a corredo sono effettuate dall’Agenzia in
@@ -412,7 +405,7 @@ A. *Attività istruttoria*
     le cause che hanno determinato il mancato accoglimento della
     precedente.
 
-A. *Elezione dei soggetti a PSN e iscrizione nell’Elenco Nazionale dei
+C. *Elezione dei soggetti a PSN e iscrizione nell’Elenco Nazionale dei
    PSN*
 
     A seguito dell’accoglimento della candidatura, AgID inserisce la PA
@@ -429,7 +422,7 @@ A. *Elezione dei soggetti a PSN e iscrizione nell’Elenco Nazionale dei
     inseriti nell’Elenco Nazionale sono considerati tra le
     “infrastrutture critiche” rilevanti per la sicurezza nazionale.
 
-A. *Sottoscrizione del Protocollo d’intesa con AgID*
+D. *Sottoscrizione del Protocollo d’intesa con AgID*
 
     Dopo la pubblicazione in Gazzetta Ufficiale dell’Elenco Nazionale
     dei PSN, AgID stipula con le Amministrazioni ivi inserite specifici
@@ -464,7 +457,7 @@ A. *Sottoscrizione del Protocollo d’intesa con AgID*
     potranno stipulare, sulla base di quando indicato nella Convenzione,
     specifici contratti di servizio con le altre amministrazioni.
 
-A. *Monitoraggio dei PSN*
+E. *Monitoraggio dei PSN*
 
     I PSN sono sottoposti a verifica periodica da parte di AgID, che
     redigerà un Rapporto sulle risultanze dell’attività di monitoraggio

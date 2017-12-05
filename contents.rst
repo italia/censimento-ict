@@ -1,5 +1,5 @@
-Procedura di Censimento del Patrimonio ICT della PA
-===================================================
+Procedura di Censimento del Patrimonio ICT della PA (ver 1.0 del 5 dicembre 2017)
+=================================================================================
 
 Il Censimento del Patrimonio ICT della PA si propone, con cadenza
 annuale, di rilevare i dati necessari per delineare il quadro
@@ -30,7 +30,7 @@ internet dell’Agenzia.
 Ogni amministrazione affida le attività connesse al censimento del
 proprio patrimonio ICT al “Responsabile del Censimento del Patrimonio
 ICT” che dovrà garantire la ricognizione dei dati richiesti, nonché
-della veridicità dei medesimi. Ai sensi della Circolare AgID n. xx/2017,
+della veridicità dei medesimi. Ai sensi della Circolare AgID n. 05/2017,
 tale ruolo è svolto dal Responsabile dell’Ufficio dirigenziale di cui
 all’art. 17 del Codice dell’Amministrazione Digitale o da soggetto da
 lui delegato.
@@ -65,8 +65,8 @@ Il “QUESTIONARIO DI RILEVAMENTO” è composto da 6 sezioni:
 5. Cloud: contiene la richiesta di informazioni relative all’eventuale
    utilizzo dei servizi Cloud e sul livello di virtualizzazione;
 
-6. Spesa: contiene la richiesta di informazioni sulla capacità dell’Ente
-   di determinare la quota di costi ICT di un servizio.
+6. Voci di Spesa: contiene la richiesta di informazioni sui dati di spesa ICT
+   relativi ai Data Center dell’Ente. 
 
 Al fine di fornire supporto alla compilazione, l’Agenzia per l’Italia
 Digitale ha redatto una breve “Guida alla compilazione”, che
@@ -91,8 +91,7 @@ DELLA PA 2017-2019” dall’indirizzo PEC dell’Agenzia per l’Italia
 Digitale che conterrà le successive istruzioni operative per accedere al
 Questionario.
 
-Tali inviti saranno inviati dall’Agenzia per l’Italia Digitale nel corso
-del 2018.
+Tali inviti saranno inviati dall’Agenzia per l’Italia Digitale a partire da dicembre 2017.
 
 I dati raccolti saranno utilizzati per adempiere alle previsioni del
 Piano Triennale e per gli altri fini istituzionali dell’Agenzia per
@@ -103,11 +102,10 @@ all’interno del Rapporto del censimento come previsto nel Piano
 Triennale per l’informatica della PA 2017-2019 risultato dell’azione
 “Censimento patrimonio ICT della PA”.
 
-Le istruzioni operative contenute nella presente pagina sono soggette ad
-aggiornamento.
 
-Le amministrazioni devono, altresì, consultare periodicamente la
-presente pagina.
+Le istruzioni operative contenute nella presente pagina sono soggette ad aggiornamento.
+
+Le amministrazioni devono, altresì, consultare periodicamente la presente pagina.
 
 Si ringrazia per la collaborazione.
 
