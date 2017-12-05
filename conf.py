@@ -92,7 +92,7 @@ else:
     # Override default css to get a larger width for ReadTheDoc build
     html_context = {
         'css_files': [
-            'static/css/theme.css',
+            '_static/css/theme.css',
         ],
         'reference_project': settings_project_name,
         'reference_project_url': settings_project_url,
