@@ -1,0 +1,973 @@
+Agenzia per l\'Italia Digitale - CIRCOLARE N. 05 del 30 novembre 2017
+=====================================================================
+
+**Censimento del Patrimonio ICT delle Amministrazioni e qualificazione dei Poli Strategici Nazionali**
+
+
+
+    **Premessa**
+
+    La presente circolare e i relativi allegati definiscono le attività
+    di censimento del patrimonio ICT delle Pubbliche amministrazioni e
+    la procedura di qualificazione dei Poli Strategici Nazionali, così
+    come previsto nel “Piano Triennale per l’informatica nella pubblica
+    amministrazione 2017-2019”, approvato con DPCM del 31 maggio 2017.
+
+    Le previsioni contenute nel Piano Triennale, fissando i principi
+    architetturali fondamentali, le regole di usabilità ed
+    interoperabilità, la logica di classificazione delle spese ICT ed il
+    modello per lo sviluppo del digitale, rappresentano il riferimento
+    per lo sviluppo dei sistemi informativi delle Pubbliche
+    amministrazioni per il prossimo triennio.
+
+    I principali obiettivi del Piano Triennale sono:
+
+-  definire le linee della strategia di sviluppo e realizzazione del
+   sistema informativo della Pubblica amministrazione in un quadro
+   organico in base a quanto previsto dagli obiettivi dell’Agenda
+   Digitale italiana, dunque del Piano Crescita Digitale;
+
+-  razionalizzare, ovvero riqualificare la spesa ICT delle
+   amministrazioni in coerenza con gli obiettivi della Legge di
+   stabilità 2016.
+
+    Con specifico riferimento a quanto previsto al paragrafo 3.1 del
+    Piano Triennale “Data Center e Cloud”, tutte le Pubbliche
+    amministrazioni che dispongono di infrastrutture fisiche in
+    qualsiasi forma contrattuale dovranno partecipare al censimento
+    effettuato da AgID sulla base del quale saranno individuate le
+    infrastrutture fisiche delle PA candidate a ricoprire il ruolo di
+    Poli Strategici Nazionali o classificabili nelle seguenti categorie
+    (nella logica di salvaguardia degli investimenti pregressi
+    effettuati dalle amministrazioni):
+
+-  Gruppo A - Data center di qualità non eleggibili a Polo strategico
+   nazionale, oppure con carenze strutturali o organizzative considerate
+   minori.
+
+-  Gruppo B - Data center che non garantiscono requisiti minimi di
+   affidabilità e sicurezza dal punto di vista infrastrutturale e/o
+   organizzativo, o non garantiscono la continuità dei servizi.
+
+**Definizioni**
+
++-----------------------------------+-----------------------------------+
+| **Termine o abbreviazione**       | **Descrizione**                   |
++-----------------------------------+-----------------------------------+
+| Agenda Digitale Italiana          | Rappresenta l’insieme di azioni e |
+|                                   | norme per lo sviluppo delle       |
+|                                   | tecnologie, dell’innovazione e    |
+|                                   | dell’economia digitale. L’Agenda  |
+|                                   | Digitale è una delle sette        |
+|                                   | iniziative della strategia Europa |
+|                                   | 2020, che fissa gli obiettivi per |
+|                                   | la crescita nell’Unione europea   |
+|                                   | da raggiungere entro il 2020.     |
++-----------------------------------+-----------------------------------+
+| Agenzia/AgID                      | Agenzia per l’Italia Digitale.    |
++-----------------------------------+-----------------------------------+
+| Pubbliche                         | Le Amministrazioni, come meglio   |
+| amministrazioni/Amministrazioni/P | definite all’art. 2, comma 2 del  |
+| A                                 | Codice dell’Amministrazione       |
+|                                   | Digitale.                         |
++-----------------------------------+-----------------------------------+
+| Codice /Codice                    | Decreto Legislativo 7 marzo 2005, |
+| dell’Amministrazione Digitale/CAD | n. 82 e s.m.i.                    |
++-----------------------------------+-----------------------------------+
+| Cloud della PA                    | Il Cloud della PA è composto da   |
+|                                   | Cloud SPC, dai PSN e dagli altri  |
+|                                   | CSP che saranno qualificati come  |
+|                                   | compatibili con i requisiti Cloud |
+|                                   | della PA                          |
++-----------------------------------+-----------------------------------+
+| CSP                               | Cloud Service Provider, ovvero    |
+|                                   | fornitore di servizi erogati in   |
+|                                   | modalità Cloud                    |
++-----------------------------------+-----------------------------------+
+| Fornitore                         | Il soggetto al quale è affidata   |
+|                                   | la realizzazione ed erogazione di |
+|                                   | servizi e forniture per lo        |
+|                                   | sviluppo, gestione ed evoluzione  |
+|                                   | dei sistemi informatici delle PA, |
+|                                   | ovvero l’operatore contraente     |
+|                                   | nell’ambito di un contratto.      |
++-----------------------------------+-----------------------------------+
+| Piano Triennale/Piano triennale   | Piano previsto dalla legge 28     |
+| per l’informatica nella Pubblica  | dicembre 2015, n. 208, art. 1,    |
+| amministrazione 2017-2019         | comma 513, predisposto da AgID ed |
+|                                   | approvato dal Presidente del      |
+|                                   | Consiglio dei Ministri in data 31 |
+|                                   | maggio 2017.                      |
++-----------------------------------+-----------------------------------+
+| Piano triennale                   | Piano predisposto dalle           |
+| dell’Amministrazione              | Amministrazioni ai sensi          |
+|                                   | dell’art. 1, comma 513 della      |
+|                                   | legge 28 dicembre 2015, n. 208,   |
+|                                   | coerentemente con la              |
+|                                   | programmazione delle acquisizioni |
+|                                   | di beni e servizi informatici,    |
+|                                   | anche ai sensi dell’art. 21,      |
+|                                   | comma 6 del decreto legislativo   |
+|                                   | 50/2016.                          |
++-----------------------------------+-----------------------------------+
+| Progetti/interventi strategici o  | Progetti come individuati da      |
+| progetti di rilevanza strategica  | specifici decreti del Presidente  |
+|                                   | del Consiglio dei Ministri, ai    |
+|                                   | sensi dell’art. 63, comma 2 del   |
+|                                   | decreto legislativo 26 agosto     |
+|                                   | 2016, n. 179                      |
++-----------------------------------+-----------------------------------+
+| PSN/Polo Strategico Nazionale     | Soggetto titolare dell’insieme di |
+|                                   | infrastrutture IT (centralizzate  |
+|                                   | o distribuite), ad alta           |
+|                                   | disponibilità, di proprietà       |
+|                                   | pubblica, eletto a Polo           |
+|                                   | Strategico Nazionale dalla        |
+|                                   | Presidenza del Consiglio dei      |
+|                                   | Ministri, e qualificato da AgID   |
+|                                   | ad erogare ad altre               |
+|                                   | amministrazioni, in maniera       |
+|                                   | continuativa e sistematica,       |
+|                                   | servizi infrastrutturali          |
+|                                   | on-demand, servizi di disaster    |
+|                                   | recovery e business continuity,   |
+|                                   | servizi di gestione della         |
+|                                   | sicurezza IT ed assistenza ai     |
+|                                   | fruitori dei servizi erogati      |
++-----------------------------------+-----------------------------------+
+| Responsabile del Censimento del   | Responsabile del Censimento del   |
+| Patrimonio ICT/Responsabile del   | Patrimonio ICT presso             |
+| Censimento                        | l’Amministrazione censita; tale   |
+|                                   | ruolo è svolto dal Responsabile   |
+|                                   | per la transizione digitale di    |
+|                                   | cui all’art. 17 del Codice        |
+|                                   | dell’Amministrazione Digitale o,  |
+|                                   | in sua vece, o da persona         |
+|                                   | formalmente nominata dall’organo  |
+|                                   | di vertice amministrativo         |
+|                                   | dell’Ente.                        |
++-----------------------------------+-----------------------------------+
+| SPC Cloud                         | Contratto Quadro stipulato da     |
+|                                   | CONSIP con il RTI aggiudicatario  |
+|                                   | della Gara SPC Cloud Lotto 1      |
+|                                   | (`https://www.cloudspc.it/ <https |
+|                                   | ://www.cloudspc.it/>`__           |
+|                                   | )                                 |
++-----------------------------------+-----------------------------------+
+| “Strategia per la crescita        | Piano strategico nazionale,       |
+| digitale 2014-2020”               | approvato dal Consiglio dei       |
+|                                   | Ministri del 3 marzo 2015, che    |
+|                                   | delinea la strategia di crescita  |
+|                                   | digitale del Paese e che traccia  |
+|                                   | il percorso utile al              |
+|                                   | perseguimento degli obiettivi     |
+|                                   | dell’Agenda Digitale, nell’ambito |
+|                                   | dell’Accordo di Partenariato      |
+|                                   | 2014-2020.                        |
++-----------------------------------+-----------------------------------+
+
+**Art. 1 Ambito di applicazione**
+
+    Le Amministrazioni tenute all’osservanza della presente Circolare
+    sono quelle richiamate dall’art. 2 comma 2 del Codice
+    dell’Amministrazione Digitale (CAD), che fa riferimento “\ *alle
+    pubbliche amministrazioni di cui all’articolo 1, comma 2, del
+    decreto legislativo 30 marzo 2001, n. 165, nel rispetto del riparto
+    di competenza di cui all’articolo 117 della Costituzione, nonché le
+    società a controllo pubblico, come definite nel decreto legislativo
+    adottato in attuazione dell’articolo 18 delle legge n. 124 del 2015,
+    escluse le società quotate come definite dallo stesso decreto
+    legislativo adottato in attuazione dell’articolo 18 delle legge n.
+    124 del 2015*\ ”.
+
+**Art. 2 Ruolo e competenze dell’Agenzia per l’Italia Digitale**
+
+    Nell’ambito del Piano Triennale, è affidato all’Agenzia per l’Italia
+    Digitale il compito di definire il *Piano di razionalizzazione delle
+    risorse ICT della PA*  [1]_. A tal fine è previsto che AgID
+    individui, attraverso apposita procedura, un insieme di
+    infrastrutture fisiche di proprietà pubblica che verranno elette a
+    Poli Strategici Nazionali.
+
+    In particolare, per quanto concerne la presente Circolare,
+    all’Agenzia spetta il compito di:
+
+-  effettuare il censimento del patrimonio ICT della PA e, in
+   particolare, la ricognizione dello stato dei CED come stabilito dalla
+   legge 17 dicembre 2012, n. 221;
+
+-  individuare i Poli Strategici Nazionali, secondo apposita procedura
+   di cui alla presente circolare;
+
+-  sottoporre all’approvazione del Consiglio dei Ministri l’Elenco
+   nazionale dei Poli Strategici;
+
+-  definire lo specifico *Protocollo d’intesa* con il Polo Strategico
+   Nazionale per la messa a disposizione di risorse ICT a favore delle
+   altre PA;
+
+-  verificare il mantenimento della qualificazione dei Poli inseriti
+   nell’Elenco nazionale;
+
+-  pianificare le macro-attività a carico dei Poli Strategici Nazionali
+   ed eseguire il monitoraggio delle iniziative stabilite;
+
+-  facilitare il percorso delle PA verso il modello *Cloud della PA*,
+   attraverso anche la stipula della Convenzione fra AgID e i PSN.
+
+**Art. 3 Censimento del Patrimonio ICT della PA**
+
+    Dalle attività di ricognizione e censimento dell’intero patrimonio
+    ICT in esercizio presso la PA, AgID individuerà i soggetti che
+    potranno candidarsi a ricoprire il ruolo di Polo Strategico
+    Nazionale.
+
+    In particolare, il censimento si propone di:
+
+-  produrre un quadro informativo/statistico sulle principali
+       installazioni informatiche a livello nazionale, regionale e
+       locale;
+
+-  individuare per ogni amministrazione l’insieme dei principali
+       componenti hardware e software;
+
+-  fornire dati e informazioni utili alla razionalizzazione delle
+       infrastrutture digitali dell’amministrazione, ai sensi del D.L.
+       18.10.2012 n. 179 convertito nella Legge n. 221/2012.
+
+..
+
+    La partecipazione al censimento consente alla singola
+    amministrazione di valorizzare il proprio patrimonio informativo e
+    conoscere il raggruppamento di appartenenza del Data Center in uso
+    rispetto alla classificazione di cui in premessa, al fine di poter
+    realizzare correttamente le azioni richieste dal Piano Triennale.
+
+**Art. 4 La Procedura di censimento del patrimonio ICT della PA**
+
+    Attraverso una procedura informatica assistita, pubblicata sul sito
+    istituzionale dell’Agenzia all’indirizzo:
+    `https://www.censimentoict.italia.it <https://www.censimentoict.italia.it>`__,
+    viene sottoposto alle amministrazioni il “Questionario di
+    rilevazione del Patrimonio ICT della PA” (di seguito semplicemente
+    “Questionario”) .
+
+    AgID, in seguito alla pubblicazione della presente Circolare,
+    comunica sul proprio sito istituzionale i termini per l’avvio e la
+    chiusura del censimento e le modalità operative per la compilazione.
+
+    Per l’espletamento delle attività di censimento, AgID procederà in
+    accordo con i soggetti che manifestano la volontà di operare come
+    Coordinatori territoriali rispetto:
+
+1. all’azione di censimento del patrimonio ICT della PA;
+
+2. all’azione di trasformazione dei Data center delle PA/enti presenti
+   sul territorio, in relazione al censimento e alla chiusura dei data
+   center del “Gruppo B”.
+
+    La compilazione del “Questionario” sarà effettuata dal Responsabile
+    del Censimento.
+
+    Al termine del censimento e sulla base dei dati forniti,
+    l’Amministrazione sarà classificata in una delle seguenti categorie:
+
+-  “Polo Strategico Nazionale”
+
+-  “Gruppo A”
+
+-  “Gruppo B”
+
+    e il sistema rilascerà apposita ricevuta con valore di conclusione
+    del procedimento.
+
+    La classificazione delle amministrazioni sarà pubblicata sul sito
+    internet dell’Agenzia.
+
+    Qualora l’Amministrazione dovesse ritenere non appropriata la
+    classificazione ottenuta, potrà richiedere l’aggiornamento dei
+    propri dati, entro dieci giorni solari dalla ricevuta di conclusione
+    del procedimento.
+
+    La mancata o parziale compilazione del “Questionario” entro i
+    termini stabiliti, qualora non motivata, determina la
+    classificazione d’ufficio dell’amministrazione nel “Gruppo B”.
+
+    Una raccolta dati potrà essere richiesta annualmente al fine di
+    rilevare gli aggiornamenti delle informazioni comunicate
+    precedentemente e monitorare lo stato di avanzamento dei lavori
+    delle amministrazioni.
+
+**Art. 5 Polo Strategico Nazionale (PSN)**
+
+    Per PSN si intende il soggetto titolare dell’insieme di
+    infrastrutture IT (centralizzate o distribuite), ad alta
+    disponibilità, di proprietà pubblica, eletto a Polo Strategico
+    Nazionale dalla Presidenza del Consiglio dei Ministri e qualificato
+    da AgID ad erogare, in maniera continuativa e sistematica, ad altre
+    amministrazioni:
+
+-  servizi infrastrutturali on-demand (es. housing, hosting, IaaS, PaaS,
+   SaaS, ecc.);
+
+-  servizi di disaster recovery e business continuity;
+
+-  servizi di gestione della sicurezza IT;
+
+-  servizi di assistenza ai fruitori dei servizi erogati.
+
+    Presso i PSN dovranno essere presenti e gestite le principali
+    infrastrutture ICT (hardware, software, connettività) messe a
+    disposizione delle altre amministrazioni, senza vincoli rispetto
+    alla localizzazione sul territorio nazionale.
+
+**Art. 6 Procedura di qualificazione dei Poli Strategici Nazionali (PSN).**
+
+    La procedura di qualificazione dei Poli Strategici Nazionali è
+    articolata in cinque fasi:
+
+A. *Identificazione dei soggetti candidabili e presentazione della
+   domanda di qualificazione*
+
+B. *Attività istruttoria*
+
+C. *Approvazione dei PSN da parte della Presidenza del Consiglio dei
+   Ministri e iscrizione nell’Elenco Nazionale dei PSN.*
+
+D. *Sottoscrizione del Protocollo d’intesa con AgID.*
+
+E. *Monitoraggio dell’Elenco Nazionale dei PSN.*
+
+A. *Identificazione dei soggetti candidabili e presentazione della
+   domanda di qualificazione*
+
+    L’identificazione dei soggetti candidabili a PSN avviene nei casi in
+    cui le risultanze del Censimento del Patrimonio ICT della PA
+    evidenzino la sussistenza dei requisiti specificati nel dettaglio
+    all’Allegato B - *Requisiti preliminari per l’identificazione dei
+    soggetti candidati a PSN* della presente Circolare. Nei casi di
+    effettiva candidabilità, AgID comunicherà formalmente alla PA che è
+    stata identificata quale soggetto candidabile a PSN. Solo ed
+    esclusivamente i soggetti identificati quali candidabili a PSN, se
+    interessati, possono presentare formale istanza all’Agenzia per il
+    conseguimento dell’idoneità a Polo Strategico Nazionale.
+
+    L’istanza dovrà essere redatta in lingua italiana e, ai sensi degli
+    artt.21-22 del CAD, predisposta in formato elettronico o fornita in
+    copia e sottoscritta, con firma digitale o firma elettronica
+    qualificata, dal Responsabile del Censimento, secondo lo schema
+    pubblicato sul sito dell’Agenzia, e dovrà essere inviata alla
+    casella di posta elettronica certificata di AgID, al seguente
+    indirizzo: protocollo@pec.agid.gov.it.
+
+    Con le medesime modalità dovrà essere altresì predisposta la
+    documentazione atta a dimostrare il possesso dei requisiti
+    dichiarati nel questionario.
+
+    I candidati, inoltre, dovranno dimostrare l’affidabilità
+    organizzativa, tecnica e finanziaria necessaria per erogare i
+    servizi sopra qualificati e l’utilizzo di personale dotato di
+    conoscenze specifiche e competenze necessarie per i servizi che si
+    candidano ad erogare, nonché comprovare l’applicazione di procedure
+    e metodologie conformi a tecniche consolidate.
+
+A. *Attività istruttoria*
+
+    L’istruttoria relativa alle candidature e la valutazione della
+    documentazione prodotta a corredo sono effettuate dall’Agenzia in
+    via preliminare sulla base delle risultanze del Questionario
+    nell’ambito del censimento del patrimonio ICT della PA.
+
+    AgID si riserva di verificare la veridicità delle informazioni rese
+    nel Questionario anche attraverso l’incrocio delle informazioni
+    presenti in altre banche dati (a titolo esemplificativo: banca dati
+    della Ragioneria dello Stato e dell’Istituto Nazionale di
+    Statistica).
+
+    L’Agenzia controlla la sussistenza dei requisiti previsti e la
+    veridicità di quanto dichiarato nei documenti depositati a corredo
+    dell’istanza.
+
+    La valutazione dei requisiti è effettuata da AgID tramite proprio
+    personale e/o soggetti terzi specificamente incaricati dall’Agenzia
+    stessa, secondo quanto indicato nell’Allegato A - *Processo di
+    valutazione dell’idoneità dei soggetti candidati a PSN* della
+    presente Circolare.
+
+    Terminata la verifica, l’Agenzia potrà dichiarare l’idoneità
+    dell’Amministrazione oppure potrà respingerla, qualora l’attività
+    istruttoria abbia dato esito negativo.
+
+    Se l’attività istruttoria evidenzia difformità colmabili entro tempi
+    ragionevoli rispetto alle strategie nazionali e con investimenti
+    opportunamente identificati e quantificati, l’Agenzia emanerà un
+    provvedimento motivato di preavviso di rigetto, ai sensi dell’art.
+    10 *bis* della Legge 241/1990. In tal caso l’amministrazione
+    candidata dovrà elaborare uno specifico *Piano di adeguamento* alle
+    prescrizioni comunicate da AgID, che ne verifica la fattibilità
+    tecnica ed economica ed effettua nuova istruttoria, al termine della
+    quale potrà definitivamente accogliere la richiesta di candidatura o
+    respingerla con provvedimento di diniego. In questo caso, il
+    soggetto non potrà presentare una nuova richiesta finché permangano
+    le cause che hanno determinato il mancato accoglimento della
+    precedente.
+
+A. *Elezione dei soggetti a PSN e iscrizione nell’Elenco Nazionale dei
+   PSN*
+
+    A seguito dell’accoglimento della candidatura, AgID inserisce la PA
+    candidata nell’elenco dei soggetti dichiarati idonei ad essere
+    eletti a PSN e trasmette tale elenco alla Presidenza del Consiglio
+    dei Ministri che, sulla base di valutazioni d’interesse nazionale,
+    procede all’emissione del Decreto d’approvazione.
+
+    L’iscrizione del soggetto nell’Elenco dei PSN diviene efficace a
+    decorrere dalla pubblicazione in Gazzetta Ufficiale del relativo
+    Decreto d’approvazione.
+
+    Tutti i Data center qualificati da AgID che afferiscono ai PSN
+    inseriti nell’Elenco Nazionale sono considerati tra le
+    “infrastrutture critiche” rilevanti per la sicurezza nazionale.
+
+A. *Sottoscrizione del Protocollo d’intesa con AgID*
+
+    Dopo la pubblicazione in Gazzetta Ufficiale dell’Elenco Nazionale
+    dei PSN, AgID stipula con le Amministrazioni ivi inserite specifici
+    Protocolli di intesa, contenenti, a titolo esemplificativo e non
+    esaustivo, i seguenti elementi:
+
+-  Oggetto/Finalità del protocollo (es: Servizi da erogare alle
+   Amministrazioni aderenti);
+
+-  Obblighi del Polo Strategico Nazionale;
+
+-  Condizioni economiche e modalità di fatturazione dei Servizi erogati;
+
+-  Livelli minimi di servizio garantiti;
+
+-  Aderenza ai requisiti tecnico-organizzativi del modello strategico
+   del Cloud della PA;
+
+-  Durata dell’accordo;
+
+-  Compiti, ruoli e responsabilità (di AgID, del PSN e delle
+   Amministrazioni clienti);
+
+-  Clausole di risoluzione.
+
+    Il Protocollo d’intesa contiene inoltre l’eventuale percorso di
+    adeguamento normativo, tecnico ed organizzativo a cui le PA dovranno
+    aderire per regolare la loro qualificazione e mettere a disposizione
+    delle altre PA le risorse ICT e gli spazi di cui sono proprietarie.
+
+    A seguito della sottoscrizione del Protocollo di intesa i PSN
+    potranno stipulare, sulla base di quando indicato nella Convenzione,
+    specifici contratti di servizio con le altre amministrazioni.
+
+A. *Monitoraggio dei PSN*
+
+    I PSN sono sottoposti a verifica periodica da parte di AgID, che
+    redigerà un Rapporto sulle risultanze dell’attività di monitoraggio
+    con due possibili esiti:
+
+-  Positivo: mantenimento dei requisiti d’idoneità e permanenza
+   nell’Elenco Nazionale dei PSN;
+
+-  Negativo: perdita dei requisiti d’idoneità, relativa comunicazione al
+   soggetto interessato della riclassificazione del proprio Data Center
+   nel gruppo A o B e conseguente eliminazione dall’Elenco Nazionale dei
+   PSN.
+
+    La Presidenza del Consiglio dei Ministri, con proprio provvedimento,
+    procederà alla cancellazione del soggetto dall’Elenco Nazionale dei
+    PSN. Al fine del mantenimento dell’idoneità, tutti i PSN sono
+    obbligati a comunicare tempestivamente all’Agenzia ogni evento che
+    modifichi i propri requisiti.
+
+**Disposizioni Transitorie e Finali**
+
+    Una volta completato il Censimento del Patrimonio ICT, si procederà
+    alla valutazione delle necessità IT infrastrutturali nell’ambito del
+    Piano Triennale e, in funzione del processo di razionalizzazione,
+    verranno proposti i PSN da qualificare. Non è previsto un numero
+    minimo di PSN da eleggere, ovvero, in assenza dei requisiti
+    richiesti, sarà possibile anche non eleggere alcun PSN.
+
+    Si specifica altresì che, ai sensi della Circolare AgID 24 giugno
+    2016, n. 2, come richiamata dal Piano Triennale (cfr. Paragrafo
+    3.1.3. Linee di azione- azione 1), in materia di spesa le PA non
+    possono effettuare spese o investimenti in materia di Data center,
+    ma – previa approvazione di AgID – possono procedere agli
+    adeguamenti dei propri Data center esclusivamente al fine di:
+
+-  evitare problemi di interruzione di pubblico servizio (inclusi gli
+       interventi necessari a garantire la sicurezza dei dati e dei
+       sistemi, in applicazione delle regole AgID Basic Security
+       Controls);
+
+-  anticipare processi di dismissione dei propri Data center per migrare
+       al Cloud della PA;
+
+-  consolidare i propri servizi sui Data center di altre PA per ottenere
+       economie di spesa.
+
+..
+
+    Attraverso una *procedura informatica* dedicata, pubblicata sul sito
+    istituzionale dell’Agenzia, sarà possibile sottoporre la richiesta
+    d’approvazione che dovrà essere redatta in lingua italiana e, ai
+    sensi degli artt.21-22 del CAD, predisposta in formato elettronico,
+    o fornita in copia e sottoscritta con firma digitale, o firma
+    elettronica qualificata, dal Responsabile del Censimento.
+
+    La richiesta dovrà essere corredata da specifica relazione
+    sottoscritta digitalmente dal Responsabile del Censimento e dovrà
+    contenere
+
+-  la descrizione tecnico-economica delle attività che comportano la
+       spesa e/o l’investimento oggetto d’approvazione corredata da
+       un’adeguata motivazione dell’impossibilità di migrare al Cloud
+       della PA.
+
+..
+
+    Sono esclusi dalla richiesta di approvazione gli adeguamenti che
+    prevedono acquisti nei seguenti ambiti:
+
+-  progetti di ricerca a titolarità di istituzioni universitarie e/o
+       enti di ricerca;
+
+-  sistemi a supporto della diagnostica clinica.
+
+..
+
+    Nelle more dell’attivazione della *piattaforma dedicata* alla
+    gestione delle richieste d’approvazione ai sensi del Piano
+    Triennale, i soggetti che intendono sottoporre ad approvazione di
+    AgID la spesa e/o gli investimenti per gli adeguamenti dei Data
+    center in uso, possono inviare formale richiesta tramite posta
+    elettronica certificata all’indirizzo
+    `protocollo@pec.agid.gov.it <mailto:protocollo@pec.agid.gov.it>`__
+    indicando nell’oggetto: “richiesta adeguamento data center”.
+
+    I progetti di Regioni o Comuni che prevedono adeguamenti dei Data
+    center in uso già valutati da Agid e inseriti nei protocolli di
+    intesa per l’accompagnamento dell’esecuzione del Piano Triennale
+    dell’Amministrazione, sono da ritenersi approvati e non devono
+    pertanto essere sottoposti all’iter descritto.
+
+    La presente Circolare entra in vigore alla data di pubblicazione
+    nella *Gazzetta Ufficiale* della Repubblica italiana.
+
+**Allegati:**
+
+***ALLEGATO A: Processo di valutazione dell’idoneità dei soggetti
+candidati a PSN ***
+
+***ALLEGATO B: Requisiti preliminari per l’identificazione dei soggetti
+candidati a PSN***
+
+IL DIRETTORE GENERALE
+
+***ALLEGATO A: Processo di valutazione dell’idoneità dei soggetti
+candidati a PSN***
+
+***(Art. 6 Procedura di qualificazione dei Poli Strategici Nazionali)***
+
+Il processo di valutazione dell’idoneità dei soggetti candidati a PSN,
+di cui alla Fase B dell’articolo 6 della presente Circolare, sarà
+effettuato dall’Agenzia per l’Italia Digitale attraverso specifici
+*Gruppi di Verifica*, composti da un numero variabile di membri (anche
+esterni) in possesso di diverse competenze specialistiche in relazione
+alle differenti esigenze che dovessero manifestarsi.
+
+La valutazione sarà effettuata attraverso approfondite analisi
+documentali ed eventuali verifiche *in loco* presso i Data Center di
+proprietà dei soggetti candidati, con lo scopo di accertare la
+sussistenza dei requisiti di capacità, eccellenza tecnica, economica ed
+organizzativa.
+
+Per effettuare le attività di valutazione, il Gruppo di Verifica
+utilizzerà un’apposita *Lista di Riscontro* contenente i principali
+requisiti previsti dalle norme e dagli standard internazionali di
+riferimento.  [2]_
+
+Le analisi documentali precederanno, di norma, l’eventuale visita *in
+loco* e saranno condotte a partire dai dati inviati dal soggetto
+candidato, tramite il Questionario e sulla base della documentazione
+aggiuntiva che l’Agenzia si riserva di richiedere.
+
+Le eventuali verifiche *in loco* saranno condotte secondo i principi
+della norma UNI EN ISO 19011:2013 e s.m.i.
+
+A seguito dell’analisi della documentazione fornita dal soggetto
+candidato, per ciascuna verifica *in loco* il Gruppo di Verifica
+predispone un Piano di verifica - trasmesso da AgID al Responsabile del
+Censimento almeno 48 ore prima della data prevista per l’inizio delle
+attività di verifica - contenente:
+
+a. documenti, obiettivi e ambito della verifica di riferimento;
+
+b. tipologie di documenti di riscontro che dovranno essere esibiti nel
+   corso della visita;
+
+c. data di inizio delle attività di verifica e modalità di svolgimento;
+
+d. stima del tempo e della durata delle attività;
+
+e. composizione del gruppo di verifica, indicazione del responsabile ed
+   indicazione dei ruoli di eventuali accompagnatori.
+
+Ricevuto il Piano di Verifica, il Responsabile del Censimento adotta
+ogni azione per rendere disponibili personale, strumenti, documenti e
+quant’altro necessario per l’esecuzione della verifica e invia ad AgID
+ogni comunicazione utile allo scopo.
+
+A completamento della fase di pianificazione, il Gruppo di Verifica
+predispone i documenti di lavoro, che possono comprendere: liste di
+riscontro, piani di campionamento e moduli per la registrazione delle
+informazioni, delle risultanze della verifica e delle riunioni.
+
+Il momento di inizio delle attività è ufficializzato in un incontro del
+Gruppo di Verifica con il Responsabile del Censimento della PA candidata
+o con persona da questi formalmente incaricata; ove appropriato,
+partecipano all’incontro i responsabili delle funzioni o dei processi da
+sottoporre a verifica. Lo scopo della riunione di apertura è di
+riepilogare il Piano di Verifica, fornire una breve sintesi di come
+verranno eseguite le attività, confermare i canali di comunicazione.
+
+Nel corso della verifica si provvede a raccogliere e verificare le
+informazioni necessarie. Solo le informazioni verificabili possono
+costituire evidenze e sono oggetto di registrazione.
+
+I metodi per raccogliere informazioni possono comprendere: interviste,
+liste di riscontro, osservazione di attività, riesame dei documenti.
+
+A conclusione della raccolta e dell’esame delle informazioni, il Gruppo
+di Verifica predispone un Rapporto di Verifica che viene firmato da AgID
+e, per presa visione, dal Responsabile del Censimento della PA
+candidata.
+
+Il Rapporto di Verifica, fornisce una completa registrazione delle
+attività svolte ed include o può far riferimento a titolo
+esemplificativo:
+
+-  al Piano di Verifica;
+
+-  all’elenco dei partecipanti del soggetto candidato;
+
+-  all’elenco della documentazione esaminata;
+
+-  alla sintesi del processo di verifica comprendente anche le eventuali
+   criticità riscontrate, quali opinioni divergenti o aree non coperte o
+   documentazione non esaustiva;
+
+La verifica è completata quando tutte le attività descritte nel piano
+sono state attuate.
+
+I rapporti di verifica e le ulteriori registrazioni delle attività di
+verifica, che possono includere verbali riunioni, liste di controllo
+compilate, documentazione raccolta in fase di verifica, sono conservati
+da AgID nel rispetto della normativa vigente in materia.
+
+***ALLEGATO B: Requisiti preliminari per l’identificazione dei soggetti
+candidabili a PSN***
+
+La tabella seguente riporta i requisiti preliminari in base ai quali
+l’Agenzia procederà all’avvio dell’istruttoria di cui all’art. 6, lett.
+B) della presente Circolare.
+
+AgID, al fine del conseguimento dell’idoneità da parte del soggetto
+candidato, si riserva di prendere in considerazione ulteriori fattori
+tra i quali, a titolo esemplificativo: la posizione geografica in
+relazione a diversi profili di rischio (idrogeologico, sismico,
+alluvionale, attentati); la disponibilità di infrastrutture
+(alimentazione elettrica e idrica, dorsali di connettività); le
+caratteristiche della struttura degli edifici ospitanti i Data center e
+degli spazi circostanti; ulteriori vincoli di natura organizzativa,
+tecnologica e infrastrutturale anche in relazione al mutamento del
+contesto tecnologico e normativo.
+
++-----------------+-----------------+-----------------+-----------------+
+| **Livello 1**   | **Livello 2**   | **ID**          | **Requisiti     |
+|                 |                 |                 | Preliminari**   |
++=================+=================+=================+=================+
+| **Aspetti       | **Norme/**      | 1               | L’Ente deve     |
+| Organizzativi e |                 |                 | aver            |
+| Gestionali**    | **Procedure/**  |                 | formalmente     |
+|                 |                 |                 | adottato        |
+|                 | **Presidio**    |                 | procedure per   |
+|                 |                 |                 | la gestione dei |
+|                 |                 |                 | servizi IT, ad  |
+|                 |                 |                 | esempio ISO     |
+|                 |                 |                 | 20000.          |
++-----------------+-----------------+-----------------+-----------------+
+|                 |                 | 2               | L’Ente deve     |
+|                 |                 |                 | aver            |
+|                 |                 |                 | formalmente     |
+|                 |                 |                 | adottato        |
+|                 |                 |                 | procedure per   |
+|                 |                 |                 | la gestione     |
+|                 |                 |                 | della Business  |
+|                 |                 |                 | Continuity, ad  |
+|                 |                 |                 | esempio ISO     |
+|                 |                 |                 | 22301.          |
++-----------------+-----------------+-----------------+-----------------+
+|                 |                 | 3               | L’Ente deve     |
+|                 |                 |                 | aver            |
+|                 |                 |                 | formalmente     |
+|                 |                 |                 | adottato        |
+|                 |                 |                 | procedure per   |
+|                 |                 |                 | la gestione     |
+|                 |                 |                 | della sicurezza |
+|                 |                 |                 |  IT, ad esempio |
+|                 |                 |                 | ISO 27001.      |
++-----------------+-----------------+-----------------+-----------------+
+|                 |                 | 4               | Il Data Center  |
+|                 |                 |                 | è gestito da    |
+|                 |                 |                 | un’organizzazio |
+|                 |                 |                 | ne              |
+|                 |                 |                 | che assicura    |
+|                 |                 |                 | turni operativi |
+|                 |                 |                 | 24/7/365.       |
++-----------------+-----------------+-----------------+-----------------+
+| **Aspetti       | **Generale DC** | 5               | Gli immobili in |
+| Infrastruttural |                 |                 | cui sono        |
+| i**             |                 |                 | situati i Data  |
+|                 |                 |                 | Center devono   |
+|                 |                 |                 | essere nella    |
+|                 |                 |                 | disponibilità   |
+|                 |                 |                 | esclusiva       |
+|                 |                 |                 | dell’Ente sulla |
+|                 |                 |                 | base di uno dei |
+|                 |                 |                 | seguenti titoli |
+|                 |                 |                 | di possesso: 1. |
+|                 |                 |                 | Proprietà; 2.   |
+|                 |                 |                 | locazione/      |
+|                 |                 |                 | comodato da     |
+|                 |                 |                 | altra PA o      |
+|                 |                 |                 | Demanio; 3.     |
+|                 |                 |                 | leasing         |
+|                 |                 |                 | immobiliare con |
+|                 |                 |                 | possibilità di  |
+|                 |                 |                 | riscatto; 4.    |
+|                 |                 |                 | locazione o     |
+|                 |                 |                 | possesso da     |
+|                 |                 |                 | privato con     |
+|                 |                 |                 | contratti di    |
+|                 |                 |                 | tipo “rent to   |
+|                 |                 |                 | buy” o “vendita |
+|                 |                 |                 | con patto di    |
+|                 |                 |                 | riservato       |
+|                 |                 |                 | dominio”.       |
++-----------------+-----------------+-----------------+-----------------+
+|                 |                 | 6               | I Data Center   |
+|                 |                 |                 | devono essere   |
+|                 |                 |                 | utilizzabili    |
+|                 |                 |                 | anche da altri  |
+|                 |                 |                 | Enti, ad        |
+|                 |                 |                 | esempio in      |
+|                 |                 |                 | modalità        |
+|                 |                 |                 | housing/hosting |
+|                 |                 |                 | .               |
++-----------------+-----------------+-----------------+-----------------+
+|                 |                 | 7               | L’indice di     |
+|                 |                 |                 | disponibilità   |
+|                 |                 |                 | del singolo     |
+|                 |                 |                 | Data Center     |
+|                 |                 |                 | nell’ultimo     |
+|                 |                 |                 | anno (2016)     |
+|                 |                 |                 | deve essere     |
+|                 |                 |                 | stata almeno    |
+|                 |                 |                 | pari al 99,98 % |
+|                 |                 |                 | (come rapporto  |
+|                 |                 |                 | tra le ore di   |
+|                 |                 |                 | disponibilità   |
+|                 |                 |                 | del data center |
+|                 |                 |                 | e le ore totali |
+|                 |                 |                 | di servizio del |
+|                 |                 |                 | data center) al |
+|                 |                 |                 | netto dei fermi |
+|                 |                 |                 | programmati e   |
+|                 |                 |                 | almeno pari al  |
+|                 |                 |                 | 99,6%           |
+|                 |                 |                 | comprendendo i  |
+|                 |                 |                 | fermi           |
+|                 |                 |                 | programmati.    |
++-----------------+-----------------+-----------------+-----------------+
+|                 | **Architettura  | 8               | Il Data Center  |
+|                 | DC**            |                 | deve essere     |
+|                 |                 |                 | stato           |
+|                 |                 |                 | progettato      |
+|                 |                 |                 | secondo         |
+|                 |                 |                 | standard di     |
+|                 |                 |                 | riferimento     |
+|                 |                 |                 | infrastruttural |
+|                 |                 |                 | i,              |
+|                 |                 |                 | ad esempio      |
+|                 |                 |                 | ANSI/BICSI 002  |
+|                 |                 |                 | o analoghi.     |
++-----------------+-----------------+-----------------+-----------------+
+|                 |                 | 9               | L’ente deve     |
+|                 |                 |                 | avere adottato  |
+|                 |                 |                 | formalmente     |
+|                 |                 |                 | procedure per   |
+|                 |                 |                 | la gestione     |
+|                 |                 |                 | delle emissioni |
+|                 |                 |                 | dei gas         |
+|                 |                 |                 | prodotti dai    |
+|                 |                 |                 | suoi Data       |
+|                 |                 |                 | Center (es. ISO |
+|                 |                 |                 | 14064), o per   |
+|                 |                 |                 | la gestione     |
+|                 |                 |                 | dell’energia    |
+|                 |                 |                 | dei propri Data |
+|                 |                 |                 | Center (es. ISO |
+|                 |                 |                 | 50001), o per   |
+|                 |                 |                 | la gestione     |
+|                 |                 |                 | ambientale dei  |
+|                 |                 |                 | propri Data     |
+|                 |                 |                 | Center (es. ISO |
+|                 |                 |                 | 14001)          |
++-----------------+-----------------+-----------------+-----------------+
+|                 |                 | 10              | Il Data Center  |
+|                 |                 |                 | deve possedere  |
+|                 |                 |                 | capacità libera |
+|                 |                 |                 | in termini di   |
+|                 |                 |                 | superficie,     |
+|                 |                 |                 | cablaggio di    |
+|                 |                 |                 | rete, potenza   |
+|                 |                 |                 | elettrica,      |
+|                 |                 |                 | condizionamento |
+|                 |                 |                 | d’aria, per     |
+|                 |                 |                 | poter ospitare  |
+|                 |                 |                 |  installazioni  |
+|                 |                 |                 | hardware        |
+|                 |                 |                 | aggiuntive.     |
++-----------------+-----------------+-----------------+-----------------+
+|                 | **Struttura     | 11              | Nei locali      |
+|                 | DC**            |                 | ospitanti i     |
+|                 |                 |                 | Data Center     |
+|                 |                 |                 | sono presenti   |
+|                 |                 |                 | pavimenti       |
+|                 |                 |                 | flottanti       |
++-----------------+-----------------+-----------------+-----------------+
+|                 |**Anti-incendio**| 12              | I Data Center   |
+|                 |                 |                 | sono provvisti  |
+|                 |                 |                 | di impianto di  |
+|                 |                 |                 | segnalazione    |
+|                 |                 |                 | antincendio     |
++-----------------+-----------------+-----------------+-----------------+
+|                 |                 | 13              | I Data Center   |
+|                 |                 |                 | sono in         |
+|                 |                 |                 | possesso di     |
+|                 |                 |                 | certificato di  |
+|                 |                 |                 | agibilità e di  |
+|                 |                 |                 | certificato CPI |
+|                 |                 |                 | (Certificato    |
+|                 |                 |                 | protezione      |
+|                 |                 |                 | incendi         |
+|                 |                 |                 | rilasciato dai  |
+|                 |                 |                 | VV.FF.) in      |
+|                 |                 |                 | corso di        |
+|                 |                 |                 | validità        |
++-----------------+-----------------+-----------------+-----------------+
+|                 | **Accesso       | 14              | Nei locali      |
+|                 | locali**        |                 | ospitanti i     |
+|                 |                 |                 | Data Center     |
+|                 |                 |                 | sono presenti   |
+|                 |                 |                 | zone ad accesso |
+|                 |                 |                 | fisico          |
+|                 |                 |                 | controllato     |
++-----------------+-----------------+-----------------+-----------------+
+|                 | **Gruppi        | 15              | Tutti i server  |
+|                 | elettrogeni e   |                 | dei Data Center |
+|                 | raffreddamento**|                 | sono connessi   |
+|                 |                 |                 | ad apparati per |
+|                 |                 |                 | la continuità   |
+|                 |                 |                 | elettrica (UPS) |
++-----------------+-----------------+-----------------+-----------------+
+|                 |                 | 16              | I singoli Data  |
+|                 |                 |                 | Center          |
+|                 |                 |                 | posseggono una  |
+|                 |                 |                 | linea           |
+|                 |                 |                 | secondaria di   |
+|                 |                 |                 | alimentazione   |
+|                 |                 |                 | gestita da      |
+|                 |                 |                 | gruppi          |
+|                 |                 |                 | elettrogeni     |
++-----------------+-----------------+-----------------+-----------------+
+|                 |                 | 17              | Esiste una      |
+|                 |                 |                 | ridondanza      |
+|                 |                 |                 | parallela dei   |
+|                 |                 |                 | gruppi          |
+|                 |                 |                 | elettrogeni di  |
+|                 |                 |                 | tipo N+1 o      |
+|                 |                 |                 | superiore       |
++-----------------+-----------------+-----------------+-----------------+
+|                 |                 | 18              | Il sistema di   |
+|                 |                 |                 | raffreddamento  |
+|                 |                 |                 | riesce a        |
+|                 |                 |                 | mantenere la    |
+|                 |                 |                 | temperatura     |
+|                 |                 |                 | sotto controllo |
+|                 |                 |                 | anche durante   |
+|                 |                 |                 | la perdita      |
+|                 |                 |                 | dell’alimentazi |
+|                 |                 |                 | one             |
+|                 |                 |                 | elettrica       |
+|                 |                 |                 | principale      |
++-----------------+-----------------+-----------------+-----------------+
+| **Aspetti       | **Connessione** | 19              | I Data Center   |
+| Tecnologici**   |                 |                 | sono            |
+|                 |                 |                 | predisposti per |
+|                 |                 |                 | supportare      |
+|                 |                 |                 | servizi di rete |
+|                 |                 |                 | anche in        |
+|                 |                 |                 | modalità IPV6   |
+|                 |                 |                 | (dual-stack     |
+|                 |                 |                 | IPv4-IPv6)      |
++-----------------+-----------------+-----------------+-----------------+
+|                 | **DR e BC**     | 20              | È stato         |
+|                 |                 |                 | predisposto un  |
+|                 |                 |                 | Piano di        |
+|                 |                 |                 | Disaster        |
+|                 |                 |                 | Recovery        |
++-----------------+-----------------+-----------------+-----------------+
+|                 |                 | 21              | È stato         |
+|                 |                 |                 | predisposto un  |
+|                 |                 |                 | piano per la    |
+|                 |                 |                 | Continuità      |
+|                 |                 |                 | Operativa       |
++-----------------+-----------------+-----------------+-----------------+
+|                 |                 | 22              | Sono state      |
+|                 |                 |                 | adottate        |
+|                 |                 |                 | formali         |
+|                 |                 |                 | procedure di    |
+|                 |                 |                 | emergenza in    |
+|                 |                 |                 | caso di         |
+|                 |                 |                 | indisponibilità |
+|                 |                 |                 | parziale dei    |
+|                 |                 |                 | servizi         |
++-----------------+-----------------+-----------------+-----------------+
+| **Aspetti       | **Spese**       | 23              | L’Ente ha       |
+| Economico       |                 |                 | valorizzato le  |
+| Finanziari**    |                 |                 | voci di spesa   |
+|                 |                 |                 | della sezione 6 |
+|                 |                 |                 | "Voci di Spesa" |
+|                 |                 |                 | del             |
+|                 |                 |                 | Questionario    |
+|                 |                 |                 | (per il periodo |
+|                 |                 |                 | 2013-2016)      |
++-----------------+-----------------+-----------------+-----------------+
+
+.. [1]
+   Legge 17 dicembre 2012, n. 221 conversione, con modificazioni, del
+   decreto-legge 18 ottobre 2012, n. 179, recante ulteriori misure
+   urgenti per la crescita del Paese (G.U. n. 294 del 18 dicembre 2012,
+   s.o. n. 208)
+
+.. [2]
+   A titolo esemplificativo: Norme ISO applicabili per servizi cloud, su
+   sicurezza, ambiente ed energia; Norme ISO generali per i data center
+   e standard ANSI sulla costruzione dei data Center

@@ -1,0 +1,3 @@
+[submodule "source/themes"]
+	path = source/themes
+	url = https://github.com/italia/docs-italia-theme.git
