@@ -77,9 +77,6 @@ strumenti:
 -  una casella di posta elettronica dedicata:
    helpdeskcensimentoict@agid.gov.it;
 
--  una piattaforma di Trouble Ticketing all’indirizzo:
-   `https://helpdesk.censimentoict.italia.it <https://helpdesk.censimentoict-test.italia.it>`__
-
 **Agid comunicherà le disposizioni tecnico-operative per la
 partecipazione e avvio del Censimento ad ogni Amministrazione,
 tramite apposita comunicazione a mezzo posta elettronica certificata.**
