@@ -529,8 +529,7 @@ E. *Monitoraggio dei PSN*
 
     -  progetti di ricerca a titolarità di istituzioni universitarie e/o
        enti di ricerca;
-
-     -  sistemi a supporto della diagnostica clinica.
+    -  sistemi a supporto della diagnostica clinica.
 
 ..
 
