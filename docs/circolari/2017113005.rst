@@ -1,5 +1,5 @@
-Agenzia per l\'Italia Digitale - CIRCOLARE N. 05 del 30 novembre 2017
-=====================================================================
+CIRCOLARE N. 05 del 30 novembre 2017
+====================================
 
 **Censimento del Patrimonio ICT delle Amministrazioni e qualificazione dei Poli Strategici Nazionali**
 
@@ -527,10 +527,10 @@ E. *Monitoraggio dei PSN*
     Sono esclusi dalla richiesta di approvazione gli adeguamenti che
     prevedono acquisti nei seguenti ambiti:
 
--  progetti di ricerca a titolarità di istituzioni universitarie e/o
+    -  progetti di ricerca a titolarità di istituzioni universitarie e/o
        enti di ricerca;
 
--  sistemi a supporto della diagnostica clinica.
+     -  sistemi a supporto della diagnostica clinica.
 
 ..
 
@@ -562,8 +562,9 @@ candidati a PSN***
 
 IL DIRETTORE GENERALE
 
-***ALLEGATO A: Processo di valutazione dell’idoneità dei soggetti
-candidati a PSN***
+
+ALLEGATO A: Processo di valutazione dell’idoneità dei soggetti candidati a PSN
+==============================================================================
 
 ***(Art. 6 Procedura di qualificazione dei Poli Strategici Nazionali)***
 
@@ -663,8 +664,8 @@ verifica, che possono includere verbali riunioni, liste di controllo
 compilate, documentazione raccolta in fase di verifica, sono conservati
 da AgID nel rispetto della normativa vigente in materia.
 
-***ALLEGATO B: Requisiti preliminari per l’identificazione dei soggetti
-candidabili a PSN***
+ALLEGATO B: Requisiti preliminari per l’identificazione dei soggetti candidabili a PSN
+======================================================================================
 
 La tabella seguente riporta i requisiti preliminari in base ai quali
 l’Agenzia procederà all’avvio dell’istruttoria di cui all’art. 6, lett.
