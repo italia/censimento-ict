@@ -623,7 +623,7 @@ della norma UNI EN ISO 19011:2013 e s.m.i.
 
 A seguito dell’analisi della documentazione fornita dal soggetto
 candidato, per ciascuna verifica *in loco* il Gruppo di Verifica
-predispone un Piano di verifica - trasmesso da AgID al Responsabile del
+predispone un Piano di Verifica - trasmesso da AgID al Responsabile del
 Censimento almeno 48 ore prima della data prevista per l’inizio delle
 attività di verifica - contenente:
 
@@ -804,10 +804,10 @@ contesto tecnologico e normativo.
 |                 |                 |                 | (come rapporto  |
 |                 |                 |                 | tra le ore di   |
 |                 |                 |                 | disponibilità   |
-|                 |                 |                 | del data center |
+|                 |                 |                 | del Data center |
 |                 |                 |                 | e le ore totali |
 |                 |                 |                 | di servizio del |
-|                 |                 |                 | data center) al |
+|                 |                 |                 | Data center) al |
 |                 |                 |                 | netto dei fermi |
 |                 |                 |                 | programmati e   |
 |                 |                 |                 | almeno pari al  |
@@ -990,5 +990,5 @@ contesto tecnologico e normativo.
 
 .. [2]
    A titolo esemplificativo: Norme ISO applicabili per servizi cloud, su
-   sicurezza, ambiente ed energia; Norme ISO generali per i data center
-   e standard ANSI sulla costruzione dei data Center
+   sicurezza, ambiente ed energia; Norme ISO generali per i Data center
+   e standard ANSI sulla costruzione dei Data center
