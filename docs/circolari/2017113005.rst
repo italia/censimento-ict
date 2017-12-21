@@ -10,8 +10,8 @@ CIRCOLARE N. 05 del 30 novembre 2017
     La presente circolare e i relativi allegati definiscono le attività
     di censimento del patrimonio ICT delle Pubbliche amministrazioni e
     la procedura di qualificazione dei Poli Strategici Nazionali, così
-    come previsto nel “Piano Triennale per l’informatica nella pubblica
-    amministrazione 2017-2019”, approvato con DPCM del 31 maggio 2017.
+    come previsto nel `“Piano Triennale per l’informatica nella pubblica
+    amministrazione 2017-2019” <https://pianotriennale-ict.italia.it/>`_, approvato con DPCM del 31 maggio 2017.
 
     Le previsioni contenute nel Piano Triennale, fissando i principi
     architetturali fondamentali, le regole di usabilità ed
@@ -22,16 +22,16 @@ CIRCOLARE N. 05 del 30 novembre 2017
 
     I principali obiettivi del Piano Triennale sono:
 
--  definire le linee della strategia di sviluppo e realizzazione del
-   sistema informativo della Pubblica amministrazione in un quadro
-   organico in base a quanto previsto dagli obiettivi dell’Agenda
-   Digitale italiana, dunque del Piano Crescita Digitale;
+    - definire le linee della strategia di sviluppo e realizzazione del
+      sistema informativo della Pubblica amministrazione in un quadro
+      organico in base a quanto previsto dagli obiettivi dell’Agenda
+      Digitale italiana, dunque del `Piano Crescita Digitale <http://www.agid.gov.it/sites/default/files/documenti_indirizzo/strategia_crescita_digitale_ver_def_21062016.pdf>`_
 
--  razionalizzare, ovvero riqualificare la spesa ICT delle
-   amministrazioni in coerenza con gli obiettivi della Legge di
-   stabilità 2016.
+    - razionalizzare, ovvero riqualificare la spesa ICT delle
+      amministrazioni in coerenza con gli obiettivi della Legge di
+      stabilità 2016.
 
-    Con specifico riferimento a quanto previsto al paragrafo 3.1 del
+    Con specifico riferimento a quanto previsto al paragrafo `3.1 <https://pianotriennale-ict.readthedocs.io/it/latest/doc/03_infrastrutture-fisiche.html#data-center-e-cloud>`_ del
     Piano Triennale “Data Center e Cloud”, tutte le Pubbliche
     amministrazioni che dispongono di infrastrutture fisiche in
     qualsiasi forma contrattuale dovranno partecipare al censimento
@@ -41,13 +41,13 @@ CIRCOLARE N. 05 del 30 novembre 2017
     (nella logica di salvaguardia degli investimenti pregressi
     effettuati dalle amministrazioni):
 
--  Gruppo A - Data center di qualità non eleggibili a Polo strategico
-   nazionale, oppure con carenze strutturali o organizzative considerate
-   minori.
+    - Gruppo A - Data center di qualità non eleggibili a Polo strategico
+      nazionale, oppure con carenze strutturali o organizzative considerate
+      minori.
 
--  Gruppo B - Data center che non garantiscono requisiti minimi di
-   affidabilità e sicurezza dal punto di vista infrastrutturale e/o
-   organizzativo, o non garantiscono la continuità dei servizi.
+    - Gruppo B - Data center che non garantiscono requisiti minimi di
+      affidabilità e sicurezza dal punto di vista infrastrutturale e/o
+      organizzativo, o non garantiscono la continuità dei servizi.
 
 **Definizioni**
 
@@ -67,9 +67,35 @@ CIRCOLARE N. 05 del 30 novembre 2017
 | Agenzia/AgID                      | Agenzia per l’Italia Digitale.    |
 +-----------------------------------+-----------------------------------+
 | Pubbliche                         | Le Amministrazioni, come meglio   |
-| amministrazioni/Amministrazioni/P | definite all’art. 2, comma 2 del  |
-| A                                 | Codice dell’Amministrazione       |
+| amministrazioni/Amministrazioni/PA| definite all’art. 2, comma 2 del  |
+|                                   | Codice dell’Amministrazione       |
 |                                   | Digitale.                         |
++-----------------------------------+-----------------------------------+
+| AgID Basic Security Controls      | AgiD, nella sua funzione          |
+| (ABSC) Misure minime di sicurezza | istituzionale, ha definito uno    |
+|                                   | specifico insieme di misure di    |
+|                                   | Sicurezza denominate AgID Basic   |
+|                                   | Security Controls (ABSC) ovvero   |
+|                                   | Misure minime di sicurezza.       | 
++-----------------------------------+-----------------------------------+
+| CED (Data center)                 | Centro elaborazione dati, anche   | 
+|                                   | indicati con il termine inglese   |
+|                                   | data center, rappresentano la     |
+|                                   | struttura fisica, normalmente un  |
+|                                   | edificio compartimentato,         |
+|                                   | unitamente a tutti gli impianti   |
+|                                   | elettrici, di condizionamento,    |
+|                                   | di attestazioni di rete,          |
+|                                   | di cablaggi, ecc. e a sistemi     |
+|                                   | di sicurezza fisica e             |
+|                                   | logica, che in tale edificio sono |
+|                                   | presenti, progettato e allestito  |
+|                                   | per ospitare e gestire  un numero |
+|                                   | elevato di apparecchiature e      |
+|                                   | infrastrutture informatiche       |
+|                                   | e i dati ivi contenuti, allo scopo| 
+|                                   | di garantirne la sicurezza        |
+|                                   | fisica e  gestionale.             |
 +-----------------------------------+-----------------------------------+
 | Codice /Codice                    | Decreto Legislativo 7 marzo 2005, |
 | dell’Amministrazione Digitale/CAD | n. 82 e s.m.i.                    |
@@ -178,7 +204,7 @@ CIRCOLARE N. 05 del 30 novembre 2017
     adottato in attuazione dell’articolo 18 delle legge n. 124 del 2015,
     escluse le società quotate come definite dallo stesso decreto
     legislativo adottato in attuazione dell’articolo 18 delle legge n.
-    124 del 2015*\ ”.
+    124 del 2015*\ ” e contenute nell’ `Indice delle Pubbliche amministrazioni (iPA) <http://www.indicepa.gov.it/>`_.
 
 **Art. 2 Ruolo e competenze dell’Agenzia per l’Italia Digitale**
 
@@ -192,62 +218,62 @@ CIRCOLARE N. 05 del 30 novembre 2017
     In particolare, per quanto concerne la presente Circolare,
     all’Agenzia spetta il compito di:
 
--  effettuare il censimento del patrimonio ICT della PA e, in
-   particolare, la ricognizione dello stato dei CED come stabilito dalla
-   legge 17 dicembre 2012, n. 221;
+    - effettuare il censimento del patrimonio ICT della PA e, in
+      particolare, la ricognizione dello stato dei CED come stabilito dalla
+      legge 17 dicembre 2012, n. 221;
 
--  individuare i Poli Strategici Nazionali, secondo apposita procedura
-   di cui alla presente circolare;
+    - individuare i Poli Strategici Nazionali, secondo apposita procedura
+      di cui alla presente circolare;
 
--  sottoporre all’approvazione del Consiglio dei Ministri l’Elenco
-   nazionale dei Poli Strategici;
+    - sottoporre all’approvazione del Consiglio dei Ministri l’Elenco
+      nazionale dei Poli Strategici;
 
--  definire lo specifico *Protocollo d’intesa* con il Polo Strategico
-   Nazionale per la messa a disposizione di risorse ICT a favore delle
-   altre PA;
+    - definire lo specifico *Protocollo d’intesa* con il Polo Strategico
+      Nazionale per la messa a disposizione di risorse ICT a favore delle
+      altre PA;
 
--  verificare il mantenimento della qualificazione dei Poli inseriti
-   nell’Elenco nazionale;
+    - verificare il mantenimento della qualificazione dei Poli inseriti
+      nell’Elenco nazionale;
 
--  pianificare le macro-attività a carico dei Poli Strategici Nazionali
-   ed eseguire il monitoraggio delle iniziative stabilite;
+    - pianificare le macro-attività a carico dei Poli Strategici Nazionali
+      ed eseguire il monitoraggio delle iniziative stabilite;
 
--  facilitare il percorso delle PA verso il modello *Cloud della PA*,
-   attraverso anche la stipula della Convenzione fra AgID e i PSN.
+    - facilitare il percorso delle PA verso il modello *Cloud della PA*,
+      attraverso anche la stipula della Convenzione fra AgID e i PSN.
 
 **Art. 3 Censimento del Patrimonio ICT della PA**
 
-    Dalle attività di ricognizione e censimento dell’intero patrimonio
+    Dalle attività di ricognizione e Censimento dell’intero patrimonio
     ICT in esercizio presso la PA, AgID individuerà i soggetti che
     potranno candidarsi a ricoprire il ruolo di Polo Strategico
     Nazionale.
 
     In particolare, il censimento si propone di:
 
--  produrre un quadro informativo/statistico sulle principali
-       installazioni informatiche a livello nazionale, regionale e
-       locale;
+    - produrre un quadro informativo/statistico sulle principali
+      installazioni informatiche a livello nazionale, regionale e
+      locale;
 
--  individuare per ogni amministrazione l’insieme dei principali
-       componenti hardware e software;
+    - individuare per ogni amministrazione l’insieme dei principali
+      componenti hardware e software;
 
--  fornire dati e informazioni utili alla razionalizzazione delle
-       infrastrutture digitali dell’amministrazione, ai sensi del D.L.
-       18.10.2012 n. 179 convertito nella Legge n. 221/2012.
+    - fornire dati e informazioni utili alla razionalizzazione delle
+      infrastrutture digitali dell’amministrazione, ai sensi del D.L.
+      18.10.2012 n. 179 convertito nella Legge n. 221/2012.
 
 ..
 
-    La partecipazione al censimento consente alla singola
+    La partecipazione al Censimento consente alla singola
     amministrazione di valorizzare il proprio patrimonio informativo e
-    conoscere il raggruppamento di appartenenza del Data Center in uso
+    conoscere il raggruppamento di appartenenza del Data center in uso
     rispetto alla classificazione di cui in premessa, al fine di poter
     realizzare correttamente le azioni richieste dal Piano Triennale.
 
-**Art. 4 La Procedura di censimento del patrimonio ICT della PA**
+**Art. 4 La Procedura di Censimento del Patrimonio ICT della PA**
 
     Attraverso una procedura informatica assistita, pubblicata sul sito
-    istituzionale dell’Agenzia all’indirizzo:
-    `https://www.censimentoict.italia.it <https://www.censimentoict.italia.it>`__,
+    istituzionale dedicato all’indirizzo:
+    `https://www.censimentoict.italia.it <https://www.censimentoict.italia.it>`_,
     viene sottoposto alle amministrazioni il “Questionario di
     rilevazione del Patrimonio ICT della PA” (di seguito semplicemente
     “Questionario”) .
@@ -272,17 +298,17 @@ CIRCOLARE N. 05 del 30 novembre 2017
     Al termine del censimento e sulla base dei dati forniti,
     l’Amministrazione sarà classificata in una delle seguenti categorie:
 
--  “Polo Strategico Nazionale”
+    -  “Polo Strategico Nazionale”
 
--  “Gruppo A”
+    -  “Gruppo A”
 
--  “Gruppo B”
+    -  “Gruppo B”
 
     e il sistema rilascerà apposita ricevuta con valore di conclusione
     del procedimento.
 
-    La classificazione delle amministrazioni sarà pubblicata sul sito
-    internet dell’Agenzia.
+    La classificazione delle amministrazioni sarà pubblicata sul `sito
+    internet dell’Agenzia <http://www.agid.gov.it>`_.
 
     Qualora l’Amministrazione dovesse ritenere non appropriata la
     classificazione ottenuta, potrà richiedere l’aggiornamento dei
@@ -307,14 +333,14 @@ CIRCOLARE N. 05 del 30 novembre 2017
     da AgID ad erogare, in maniera continuativa e sistematica, ad altre
     amministrazioni:
 
--  servizi infrastrutturali on-demand (es. housing, hosting, IaaS, PaaS,
-   SaaS, ecc.);
+    - servizi infrastrutturali on-demand (es. housing, hosting, IaaS, PaaS,
+      SaaS, ecc.);
 
--  servizi di disaster recovery e business continuity;
+    -  servizi di disaster recovery e business continuity;
 
--  servizi di gestione della sicurezza IT;
+    -  servizi di gestione della sicurezza IT;
 
--  servizi di assistenza ai fruitori dei servizi erogati.
+    -  servizi di assistenza ai fruitori dei servizi erogati.
 
     Presso i PSN dovranno essere presenti e gestite le principali
     infrastrutture ICT (hardware, software, connettività) messe a
@@ -348,10 +374,11 @@ A. *Identificazione dei soggetti candidabili e presentazione della domanda di qu
     L’istanza dovrà essere redatta in lingua italiana e, ai sensi degli
     artt.21-22 del CAD, predisposta in formato elettronico o fornita in
     copia e sottoscritta, con firma digitale o firma elettronica
-    qualificata, dal Responsabile del Censimento, secondo lo schema
-    pubblicato sul sito dell’Agenzia, e dovrà essere inviata alla
-    casella di posta elettronica certificata di AgID, al seguente
-    indirizzo: protocollo@pec.agid.gov.it.
+    qualificata, dal Responsabile del Censimento o - in sua vece- 
+    da persona formalmente nominata dall’organo di vertice amministrativo 
+    dell’Ente secondo lo schema pubblicato sul sito dell’Agenzia, 
+    e dovrà essere inviata alla casella di posta elettronica 
+    certificata di AgID, al seguente indirizzo: protocollo@pec.agid.gov.it.
 
     Con le medesime modalità dovrà essere altresì predisposta la
     documentazione atta a dimostrare il possesso dei requisiti
@@ -383,8 +410,9 @@ B. *Attività istruttoria*
 
     La valutazione dei requisiti è effettuata da AgID tramite proprio
     personale e/o soggetti terzi specificamente incaricati dall’Agenzia
-    stessa, secondo quanto indicato nell’Allegato A - *Processo di
-    valutazione dell’idoneità dei soggetti candidati a PSN* della
+    stessa, secondo quanto indicato nell’Allegato A - `*Processo di
+    valutazione dell’idoneità dei soggetti candidati a PSN* 
+    <https://www.censimentoict.italia.it/it/latest/docs/circolari/2017113005.html#allegato-a-processo-di-valutazione-dellidoneita-dei-soggetti-candidati-a-psn>`_ della
     presente Circolare.
 
     Terminata la verifica, l’Agenzia potrà dichiarare l’idoneità
@@ -425,7 +453,7 @@ C. *Elezione dei soggetti a PSN e iscrizione nell’Elenco Nazionale dei
 D. *Sottoscrizione del Protocollo d’intesa con AgID*
 
     Dopo la pubblicazione in Gazzetta Ufficiale dell’Elenco Nazionale
-    dei PSN, AgID stipula con le Amministrazioni ivi inserite specifici
+    dei PSN, AgID stipula con le Amministrazioni inserite specifici
     Protocolli di intesa, contenenti, a titolo esemplificativo e non
     esaustivo, i seguenti elementi:
 
@@ -454,7 +482,7 @@ D. *Sottoscrizione del Protocollo d’intesa con AgID*
     delle altre PA le risorse ICT e gli spazi di cui sono proprietarie.
 
     A seguito della sottoscrizione del Protocollo di intesa i PSN
-    potranno stipulare, sulla base di quando indicato nella Convenzione,
+    potranno stipulare, sulla base di quanto indicato nella Convenzione,
     specifici contratti di servizio con le altre amministrazioni.
 
 E. *Monitoraggio dei PSN*
@@ -477,7 +505,7 @@ E. *Monitoraggio dei PSN*
     obbligati a comunicare tempestivamente all’Agenzia ogni evento che
     modifichi i propri requisiti.
 
-**Disposizioni Transitorie e Finali**
+**Art.7 Disposizioni Transitorie e Finali**
 
     Una volta completato il Censimento del Patrimonio ICT, si procederà
     alla valutazione delle necessità IT infrastrutturali nell’ambito del
@@ -493,21 +521,21 @@ E. *Monitoraggio dei PSN*
     ma – previa approvazione di AgID – possono procedere agli
     adeguamenti dei propri Data center esclusivamente al fine di:
 
--  evitare problemi di interruzione di pubblico servizio (inclusi gli
+    -  evitare problemi di interruzione di pubblico servizio (inclusi gli
        interventi necessari a garantire la sicurezza dei dati e dei
        sistemi, in applicazione delle regole AgID Basic Security
        Controls);
 
--  anticipare processi di dismissione dei propri Data center per migrare
+     - anticipare processi di dismissione dei propri Data center per migrare
        al Cloud della PA;
 
--  consolidare i propri servizi sui Data center di altre PA per ottenere
+     - consolidare i propri servizi sui Data center di altre PA per ottenere
        economie di spesa.
 
 ..
 
-    Attraverso una *procedura informatica* dedicata, pubblicata sul sito
-    istituzionale dell’Agenzia, sarà possibile sottoporre la richiesta
+    Attraverso una *procedura informatica* dedicata, pubblicata sul `sito
+    istituzionale dell’Agenzia <http://www.agid.gov.it>`_, sarà possibile sottoporre la richiesta
     d’approvazione che dovrà essere redatta in lingua italiana e, ai
     sensi degli artt.21-22 del CAD, predisposta in formato elettronico,
     o fornita in copia e sottoscritta con firma digitale, o firma
@@ -517,7 +545,7 @@ E. *Monitoraggio dei PSN*
     sottoscritta digitalmente dal Responsabile del Censimento e dovrà
     contenere
 
--  la descrizione tecnico-economica delle attività che comportano la
+    -  la descrizione tecnico-economica delle attività che comportano la
        spesa e/o l’investimento oggetto d’approvazione corredata da
        un’adeguata motivazione dell’impossibilità di migrare al Cloud
        della PA.
@@ -539,11 +567,11 @@ E. *Monitoraggio dei PSN*
     AgID la spesa e/o gli investimenti per gli adeguamenti dei Data
     center in uso, possono inviare formale richiesta tramite posta
     elettronica certificata all’indirizzo
-    `protocollo@pec.agid.gov.it <mailto:protocollo@pec.agid.gov.it>`__
-    indicando nell’oggetto: “richiesta adeguamento data center”.
+    `protocollo@pec.agid.gov.it <mailto:protocollo@pec.agid.gov.it>`_
+    indicando nell’oggetto: “Richiesta adeguamento Data center”.
 
     I progetti di Regioni o Comuni che prevedono adeguamenti dei Data
-    center in uso già valutati da Agid e inseriti nei protocolli di
+    center in uso già valutati da AgID e inseriti nei protocolli di
     intesa per l’accompagnamento dell’esecuzione del Piano Triennale
     dell’Amministrazione, sono da ritenersi approvati e non devono
     pertanto essere sottoposti all’iter descritto.

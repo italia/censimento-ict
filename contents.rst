@@ -12,9 +12,9 @@ Le informazioni acquisite contribuiranno, inoltre, a fornire gli
 elementi utili all’individuazione dei soggetti che, essendo proprietari
 di infrastrutture fisiche adeguate alle esigenze dell’attuale contesto
 organizzativo ICT della PA, potranno essere candidabili a ricoprire il
-ruolo di Polo Strategico Nazionale ai sensi del Piano Triennale.
+ruolo di Polo Strategico Nazionale ai sensi del `Piano Triennale per l’Informatica nella Pubblica Amministrazione 2017-2019 <https://pianotriennale-ict.italia.it>`_.
 
-Al termine delle attività del censimento, infatti, le infrastrutture
+Al termine delle attività del Censimento, infatti, le infrastrutture
 fisiche dell’Amministrazione, in base alle informazioni fornite, saranno
 classificate, in una delle seguenti categorie:
 
@@ -24,18 +24,18 @@ classificate, in una delle seguenti categorie:
 
 -  “Gruppo B”.
 
-La classificazione sarà periodicamente pubblicata ed aggiornata sul sito
-internet dell’Agenzia.
+La classificazione sarà periodicamente pubblicata ed aggiornata sul `sito
+internet dell’Agenzia <http://www.agid.gov.it>`_.
 
 Ogni amministrazione affida le attività connesse al censimento del
 proprio patrimonio ICT al “Responsabile del Censimento del Patrimonio
 ICT” che dovrà garantire la ricognizione dei dati richiesti, nonché
-della veridicità dei medesimi. Ai sensi della Circolare AgID n. 05/2017,
+della veridicità dei medesimi. Ai sensi della `Circolare AgID n. 05/2017 <https://www.censimentoict.italia.it/it/latest/docs/circolari/2017113005.html>`_,
 tale ruolo è svolto dal Responsabile dell’Ufficio dirigenziale di cui
 all’art. 17 del Codice dell’Amministrazione Digitale o da soggetto da
 lui delegato.
 
-La rilevazione del censimento del patrimonio ICT della PA sarà svolta,
+La rilevazione del Censimento del Patrimonio ICT della PA sarà svolta,
 esclusivamente attraverso la procedura informatica assistita che guiderà
 il “Responsabile del Censimento del Patrimonio ICT” individuato
 dall’Amministrazione nella compilazione del “QUESTIONARIO DI
@@ -77,7 +77,7 @@ strumenti:
 -  una casella di posta elettronica dedicata:
    helpdeskcensimentoict@agid.gov.it;
 
-**Agid comunicherà le disposizioni tecnico-operative per la
+**AgID comunicherà le disposizioni tecnico-operative per la
 partecipazione e avvio del Censimento ad ogni Amministrazione,
 tramite apposita comunicazione a mezzo posta elettronica certificata.**
 
@@ -97,7 +97,7 @@ statistici dai soggetti del Sistema statistico nazionale. Tali dati
 saranno, altresì, rielaborati e pubblicati da AgID in formato aggregato
 all’interno del Rapporto del censimento come previsto nel Piano
 Triennale per l’informatica della PA 2017-2019 risultato dell’azione
-“Censimento patrimonio ICT della PA”.
+“Censimento Patrimonio ICT della PA”.
 
 
 Le istruzioni operative contenute nella presente pagina sono soggette ad aggiornamento.
