@@ -2,9 +2,9 @@
 Censimento del Patrimonio ICT della PA
 =======================================
 
----------------------------
-v18.0410 del 10 Aprile 2018
----------------------------
+---------
+v18.04.10
+---------
 
 
 Istruzioni per il cesnimento
