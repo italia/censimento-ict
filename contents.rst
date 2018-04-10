@@ -62,9 +62,9 @@ L’Agenzia ha avviato a dicembre 2017 la prima fase del Censimento mediante
 inviti rivolti alle amministrazioni regionali e relative in-house ICT, nonché
 alle città metropolitane. La prima fase si è conclusa a febbraio 2018.
 
-**Il 23 aprile 2018, l’Agenzia avvia la seconda fase del Censimento** rivolta a tutte le
-amministrazioni come definite ai sensi della `Circolare AgID n. 05/2017
-<https://www.censimentoict.italia.it/it/latest/docs/circolari/2017113005.html>`_,.
+.. note:: **Il 23 aprile 2018, l’Agenzia avvia la seconda fase del Censimento** rivolta a tutte le
+   amministrazioni come definite ai sensi della `Circolare AgID n. 05/2017
+   <https://www.censimentoict.italia.it/it/latest/docs/circolari/2017113005.html>`_,.
 
 Le amministrazioni sono tenute a trasmettere il questionario entro 45 giorni
 solari dalla data di avvio della seconda fase.
