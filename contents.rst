@@ -1,5 +1,10 @@
-Istruzioni censimento del Patrimonio ICT della PA (ver 1.0 del 5 dicembre 2017)
-===============================================================================
+=======================================
+Censimento del Patrimonio ICT della PA
+=======================================
+
+
+Istruzioni di compilazione  (ver 18.0410 del 10 Aprile 2018)
+============================================================
 
 Il Censimento del Patrimonio ICT della PA si propone, con cadenza annuale, di
 rilevare i dati necessari per delineare il quadro informativo/statistico sulle
