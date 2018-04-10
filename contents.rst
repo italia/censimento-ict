@@ -82,9 +82,8 @@ partecipazione a questa seconda fase.
 Modalità di esecuzione del Censimento
 =====================================
 
-Il questionario di rilevamento sarà accessibile tramite **autenticazione SPID** al
-`link <https://avvio.censimentoict.italia.it/>`_ a partire dalla data di avvio della
-seconda fase.
+Il questionario di rilevamento sarà accessibile tramite **autenticazione SPID**
+a partire dalla data di avvio della seconda fase.
 
 Il “QUESTIONARIO DI RILEVAMENTO” è composto da 2 parti e 6 sezioni.
 
