@@ -7,7 +7,7 @@ v18.04.10
 ---------
 
 
-Istruzioni per il cesnimento
+Istruzioni per il censimento
 ============================
 
 Il Censimento del Patrimonio ICT della PA si propone, con cadenza annuale, di
@@ -64,7 +64,7 @@ alle città metropolitane. La prima fase si è conclusa a febbraio 2018.
 
 .. note:: **Il 23 aprile 2018, l’Agenzia avvia la seconda fase del Censimento** rivolta a tutte le
    amministrazioni come definite ai sensi della `Circolare AgID n. 05/2017
-   <https://www.censimentoict.italia.it/it/latest/docs/circolari/2017113005.html>`_,.
+   <https://www.censimentoict.italia.it/it/latest/docs/circolari/2017113005.html>`_.
 
 Le amministrazioni sono tenute a trasmettere il questionario entro 45 giorni
 solari dalla data di avvio della seconda fase.
