@@ -1,11 +1,10 @@
-Censimento del Patrimonio ICT delle amministrazioni e qualificazionedei Poli Strategici Nazionali
-=================================================================================================
+Censimento del Patrimonio ICT delle Amministrazioni
+===================================================
 .. toctree::
    :maxdepth: 2
-   
+
    contents
-   docs/circolari/2017113005 
-   
+   docs/circolari/2017113005
 
 
 
