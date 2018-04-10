@@ -2,9 +2,13 @@
 Censimento del Patrimonio ICT della PA
 =======================================
 
+---------------------------
+v18.0410 del 10 Aprile 2018
+---------------------------
 
-Istruzioni di compilazione  (ver 18.0410 del 10 Aprile 2018)
-============================================================
+
+Istruzioni per il cesnimento
+============================
 
 Il Censimento del Patrimonio ICT della PA si propone, con cadenza annuale, di
 rilevare i dati necessari per delineare il quadro informativo/statistico sulle
@@ -75,8 +79,9 @@ Le amministrazioni che hanno trasmesso il questionario del Censimento tramite
 la piattaforma nel corso della prima fase sono esentate dall’obbligo di
 partecipazione a questa seconda fase.
 
-Modalità di esecuzione del Censimento del Patrimonio ICT
---------------------------------------------------------
+Modalità di esecuzione del Censimento
+=====================================
+
 Il questionario di rilevamento sarà accessibile tramite **autenticazione SPID** al
 `link <https://avvio.censimentoict.italia.it/>`_ a partire dalla data di avvio della
 seconda fase.
