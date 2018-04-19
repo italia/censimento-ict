@@ -2,9 +2,7 @@
 Censimento del Patrimonio ICT della PA
 =======================================
 
----------
-v18.04.10
----------
+**v18.04.10**
 
 
 Istruzioni per il censimento
