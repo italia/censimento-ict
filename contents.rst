@@ -77,6 +77,8 @@ Le amministrazioni che hanno trasmesso il questionario del Censimento tramite
 la piattaforma nel corso della prima fase sono esentate dall’obbligo di
 partecipazione a questa seconda fase.
 
+`**Partecipa al censimento** <https://avvio.censimentoict.italia.it/>`_
+
 Modalità di esecuzione del Censimento
 =====================================
 
@@ -150,3 +152,7 @@ Le amministrazioni devono, altresì, consultare periodicamente la presente pagin
 Si ringrazia per la collaborazione.
 
 Agenzia per l’Italia Digitale
+
+
+
+`**Partecipa al censimento** <https://avvio.censimentoict.italia.it>`_
