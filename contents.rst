@@ -83,10 +83,7 @@ Modalità di esecuzione del Censimento
 =====================================
 
 Il questionario di rilevamento sarà accessibile tramite **autenticazione SPID**
-a partire dalla data di avvio della seconda fase.
-
-Il “QUESTIONARIO DI RILEVAMENTO” è composto da 2 parti e 6 sezioni.
-
+**a partire** dalla data di avvio della seconda fase.
 La prima parte coincide con la prima sezione “Anagrafica” che contiene la
 richiesta di informazioni relative all’anagrafica dell’Ente, del Responsabile
 del Censimento e dell’indirizzo PEC al quale si intende ricevere il link per
@@ -132,7 +129,7 @@ consultare accedendo direttamente al questionario.
 Per qualsiasi chiarimento o informazione sulla compilazione del Questionario,
 per richiedere assistenza, per segnalare lo smarrimento di credenziali o per
 segnalare malfunzionamenti del Sistema è attivo un sistema di
-“Trouble-ticketing” raggiungibile all’indirizzo: `<https://helpdesk.agid.gov.it>`_.
+“Trouble-ticketing” raggiungibile all’indirizzo: `<https://helpdeskcensimentoict.italia.it>`_.
 
 Inoltre, in caso di indisponibilità del sistema precedente, si potrà inviare
 una email all’indirizzo: helpdeskcensimentoict@agid.gov.it.
