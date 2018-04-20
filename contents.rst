@@ -2,9 +2,11 @@
 Censimento del Patrimonio ICT della PA
 =======================================
 
+**v18.04.10**
 
-Istruzioni di compilazione  (ver 18.0410 del 10 Aprile 2018)
-============================================================
+
+Istruzioni per il censimento
+============================
 
 Il Censimento del Patrimonio ICT della PA si propone, con cadenza annuale, di
 rilevare i dati necessari per delineare il quadro informativo/statistico sulle
@@ -58,9 +60,9 @@ L’Agenzia ha avviato a dicembre 2017 la prima fase del Censimento mediante
 inviti rivolti alle amministrazioni regionali e relative in-house ICT, nonché
 alle città metropolitane. La prima fase si è conclusa a febbraio 2018.
 
-**Il 23 aprile 2018, l’Agenzia avvia la seconda fase del Censimento** rivolta a tutte le
-amministrazioni come definite ai sensi della `Circolare AgID n. 05/2017
-<https://www.censimentoict.italia.it/it/latest/docs/circolari/2017113005.html>`_,.
+.. note:: **Il 23 aprile 2018, l’Agenzia avvia la seconda fase del Censimento** rivolta a tutte le
+   amministrazioni come definite ai sensi della `Circolare AgID n. 05/2017
+   <https://www.censimentoict.italia.it/it/latest/docs/circolari/2017113005.html>`_.
 
 Le amministrazioni sono tenute a trasmettere il questionario entro 45 giorni
 solari dalla data di avvio della seconda fase.
@@ -75,14 +77,13 @@ Le amministrazioni che hanno trasmesso il questionario del Censimento tramite
 la piattaforma nel corso della prima fase sono esentate dall’obbligo di
 partecipazione a questa seconda fase.
 
-Modalità di esecuzione del Censimento del Patrimonio ICT
---------------------------------------------------------
-Il questionario di rilevamento sarà accessibile tramite **autenticazione SPID** al
-`link <https://avvio.censimentoict.italia.it/>`_ a partire dalla data di avvio della
-seconda fase.
+`Partecipa al censimento <#>`_
 
-Il “QUESTIONARIO DI RILEVAMENTO” è composto da 2 parti e 6 sezioni.
+Modalità di esecuzione del Censimento
+=====================================
 
+Il questionario di rilevamento sarà accessibile tramite **autenticazione SPID**
+**a partire** dalla data di avvio della seconda fase.
 La prima parte coincide con la prima sezione “Anagrafica” che contiene la
 richiesta di informazioni relative all’anagrafica dell’Ente, del Responsabile
 del Censimento e dell’indirizzo PEC al quale si intende ricevere il link per
@@ -128,10 +129,10 @@ consultare accedendo direttamente al questionario.
 Per qualsiasi chiarimento o informazione sulla compilazione del Questionario,
 per richiedere assistenza, per segnalare lo smarrimento di credenziali o per
 segnalare malfunzionamenti del Sistema è attivo un sistema di
-“Trouble-ticketing” raggiungibile all’indirizzo: `<https://helpdesk.agid.gov.it>`_.
+“Trouble-ticketing” raggiungibile all’indirizzo: `<https://helpdeskcensimentoict.italia.it>`_.
 
 Inoltre, in caso di indisponibilità del sistema precedente, si potrà inviare
-una email all’indirizzo: `helpdeskcensimentoict@agid.gov.it <mailto:helpdeskcensimentoict@agid.gov.it`_.
+una email all’indirizzo: helpdesk.censimentoict@agid.gov.it.
 
 I dati raccolti saranno utilizzati per adempiere alle previsioni del Piano
 Triennale e per gli altri fini istituzionali dell’Agenzia per l’Italia Digitale
@@ -151,3 +152,7 @@ Le amministrazioni devono, altresì, consultare periodicamente la presente pagin
 Si ringrazia per la collaborazione.
 
 Agenzia per l’Italia Digitale
+
+
+
+`Partecipa al censimento <#>`_
