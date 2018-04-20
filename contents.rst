@@ -132,7 +132,7 @@ segnalare malfunzionamenti del Sistema è attivo un sistema di
 “Trouble-ticketing” raggiungibile all’indirizzo: `<https://helpdeskcensimentoict.italia.it>`_.
 
 Inoltre, in caso di indisponibilità del sistema precedente, si potrà inviare
-una email all’indirizzo: helpdeskcensimentoict@agid.gov.it.
+una email all’indirizzo: helpdesk.censimentoict@agid.gov.it.
 
 I dati raccolti saranno utilizzati per adempiere alle previsioni del Piano
 Triennale e per gli altri fini istituzionali dell’Agenzia per l’Italia Digitale
