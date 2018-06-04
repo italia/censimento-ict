@@ -1,8 +1,8 @@
 Censimento del Patrimonio ICT delle Amministrazioni
 ===================================================
 .. note::
-   **Il 23 aprile 2018 parte la seconda fase del Censimento del
-   Patrimonio ICT della PA, il termine per completare il censimento è il ~~6 giugno 2018~~.**
+   Il 23 aprile 2018 parte la seconda fase del Censimento del
+   Patrimonio ICT della PA, il termine per completare il censimento è il <s>6 giugno 2018</s>.
    
    **Il termine ultimo per partecipare alla seconda fase del Censimento del Patrimonio ICT della PA è stato prorogato al 20 giugno 2018.**
    
