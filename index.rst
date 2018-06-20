@@ -14,7 +14,7 @@ Censimento del Patrimonio ICT delle Amministrazioni
    **Aggiornamento**
    
    - `Domande frequenti (FAQ) sul censimento ICT delle Amministrazioni <https://cloud.italia.it/projects/cloud-italia-docs/it/latest/domande-frequenti.html#censimento-del-patrimonio-ict-della-pa-e-psn>`_
-   - `Domande frequenti (FAQ) sul Cloud della Pubblica Amministrazione <https://cloud.italia.it/projects/cloud-italia-docs/it/latest/>`_
+   - `La strategia sull’adozione del Cloud Computing nella Pubblica Amministrazione <https://cloud.italia.it/projects/cloud-italia-docs/it/latest/>`_
 
 
 .. toctree::
