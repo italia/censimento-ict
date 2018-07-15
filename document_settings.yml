@@ -1,0 +1,11 @@
+--- 
+document:
+  name: "Censimento ICT"
+  description: |
+    Il Censimento del Patrimonio ICT della PA si propone, con cadenza annuale, di
+    rilevare i dati necessari per delineare il quadro informativo/statistico sulle
+    principali installazioni informatiche a livello nazionale, regionale e locale,
+    determinando per ogni singola amministrazione l’insieme delle principali
+    componenti hardware e software in uso.
+  tags: 
+    - "piano triennale"
