@@ -13,9 +13,7 @@ settings_file_name = 'censimento-ict'
 # -- No need to change below here
 
 import sys, os
-docs_italia_theme = __import__("docs-italia-theme")
-from recommonmark.transform import AutoStructify
-from recommonmark.parser import CommonMarkParser
+import docs_italia_theme
 
 # -- RTD configuration ------------------------------------------------
 
@@ -48,18 +46,13 @@ extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.coverage',
     'sphinx.ext.ifconfig',
-    'docs-italia-theme',
+    'docs_italia_theme',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
-# The suffix of source filenames.
-source_parsers = {
-    '.md': CommonMarkParser,
-}
-
-source_suffix = ['.rst', '.md']
+source_suffix = ['.rst']
 
 # The encoding of source files.
 #source_encoding = 'utf-8-sig'
@@ -101,18 +94,8 @@ exclude_patterns = ['.DS_Store', 'README', 'README.md', '.venv*']
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
 
-# -- AutoStructify --------------------------------------------------------
-def setup(app):
-    app.add_config_value('recommonmark_config', {
-        'auto_toc_tree_section': 'Contents',
-        'enable_eval_rst': True,
-        'enable_auto_doc_ref': True
-    }, True)
-    app.add_transform(AutoStructify)
-
-
 # -- Options for HTML output ----------------------------------------------
-html_theme = 'docs-italia-theme'
+html_theme = 'docs_italia_theme'
 
 html_theme_path = [docs_italia_theme.get_html_theme_path()]
 
