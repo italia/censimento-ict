@@ -1,34 +1,26 @@
-Censimento del Patrimonio ICT delle Amministrazioni
+Censimento del Patrimonio ICT della PA
 ===================================================
-.. note::
-   Il 23 aprile 2018 è partita la seconda fase del Censimento del Patrimonio ICT della PA, il termine per completare il censimento è il 6 giugno 2018.
+
+
+Il 15 luglio 2019 è partita la terza fase del Censimento del Patrimonio ICT della PA. Ai sensi dell’art. 4 della Circolare AgID n. 1/2019 le amministrazioni sono tenute a trasmettere il Questionario di rilevazione entro 45 giorni solari dalla data di avvio della terza fase (15 luglio 2019), seguendo le indicazioni e le modalità di seguito riportate.
    
-   **Il termine ultimo per partecipare alla seconda fase del Censimento del Patrimonio ICT della PA è stato prorogato al 20 giugno 2018.**
-   
-   **Attenzione**: alle ore 18.00 del 20 giugno l’accesso alla piattaforma verrà disattivato, con l’eventuale perdita anche di dati parzialmente inseriti senza aver portato a termine la rilevazione. Si raccomanda pertanto di completare il Censimento entro il giorno e l’orario previsti.
-
-   `Partecipa al censimento <https://avvio.censimentoict.italia.it>`_
-
-
-.. note:: 
-   **Aggiornamento**
-   
-   - `Domande frequenti (FAQ) sul censimento ICT delle Amministrazioni <https://cloud.italia.it/projects/cloud-italia-docs/it/latest/domande-frequenti.html#censimento-del-patrimonio-ict-della-pa-e-psn>`_
-   - `La strategia sull’adozione del Cloud Computing nella Pubblica Amministrazione <https://cloud.italia.it/projects/cloud-italia-docs/it/latest/>`_
-
 
 .. toctree::
    :maxdepth: 2
 
    contents
-   docs/circolari/2017113005
 
 
 
 
+`Partecipa al censimento <https://avvio.censimentoict.italia.it>`_
 
 
-
+.. note:: 
+   **Altre informazioni e riferimenti**
+   
+   - `Domande frequenti (FAQ) sul Censimento ICT dela PA <https://helpdeskcensimentoict.italia.it/knowledgebase.php>`_
+   - `Circolare AgID n. 1/2019 <https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/191671055570O__O01-+AGID+CIRC+n.+01+-+14+giu+2019.pdf>`_
 
 
 
