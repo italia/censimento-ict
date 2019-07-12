@@ -121,9 +121,10 @@ consultare accedendo direttamente al questionario.
 
 L'Agenzia ha attivato un sistema di “trouble-ticketing” raggiungibile 
 all’indirizzo: `<https://helpdeskcensimentoict.italia.it>`_ utilizzabile per:
+
 - comunicare eventuali variazioni riguardanti il nominativo del Responsabile del Censimento / per la Transizione Digitale,
 - ricevere assistenza, qualsiasi chiarimento o informazione sulla compilazione del Questionario,
-- segnalare eventuali malfunzionamenti del Sistema.
+- segnalare eventuali malfunzionamenti del sistema.
 
 I dati raccolti saranno utilizzati per adempiere alle previsioni del Piano
 Triennale 2019-2021, per gli altri fini istituzionali dell’Agenzia per 
@@ -143,6 +144,7 @@ nel Piano Triennale per l’Informatica della PA 2019-2021.
 *Le amministrazioni devono, altresì, consultare periodicamente la presente pagina*.
 
 Si ringrazia per la collaborazione.
+
 Agenzia per l’Italia Digitale
 
 
