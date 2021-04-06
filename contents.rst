@@ -150,4 +150,5 @@ Agenzia per l’Italia Digitale
 
 
 
-`Partecipa al censimento <https://avvio.censimentoict.italia.it>`_
+Il censimento si è concluso. Possono essere consultati  
+`i risultati del censimento <https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2020/02/20/cloud-pa-concluso-il-censimento-ict>`_
