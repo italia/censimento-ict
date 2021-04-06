@@ -65,7 +65,8 @@ candidabile all’utilizzo da parte di PSN e le amministrazioni abbiano
 manifestato interesse a candidare l’infrastruttura/e per l’utilizzo 
 da parte di PSN, AGID avvierà la `procedura di verifica di effettiva idoneità <https://www.agid.gov.it/sites/default/files/repository_files/procedura_verifica_idoneita_infrastruttura_per_utilizzo_da_psn-agid.pdf>`_.
 
-`Partecipa al censimento <http://avvio.censimentoict.italia.it>`_
+Il censimento si è concluso. Possono essere consultati  
+`i risultati del censimento <https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2020/02/20/cloud-pa-concluso-il-censimento-ict>`_
 
 
 Modalità di esecuzione del Censimento
